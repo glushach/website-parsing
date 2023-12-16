@@ -11,4 +11,6 @@ preg_match($pattern, $file, $matches);
 print_r($matches); */
 
 $doc = phpQuery::newDocument($file);
-var_dump($doc);
+// $tbl = $doc->find('[data-cource_type="posts_course"] table');
+$tr = $doc->find('[data-cource_type="posts_course"] table tbody tr:eq(2) td:eq(2)')->text();
+echo $tr;
