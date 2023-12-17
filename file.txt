@@ -1,0 +1,1470 @@
+<!doctype html>
+<html lang="ru" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="FQnkQWpj18auju9H1Dw7oa3MLoQLRLTXoDeWmTkl">
+
+    <title>Новости - КОЛЕСА.ру – автомобильный журнал</title>
+
+    <link rel="canonical" href="https://www.kolesa.ru/news">
+
+    <meta name="robots" content="index, follow">
+<meta property="og:url" content="https://www.kolesa.ru/news">
+<meta property="og:site_name" content="Автомобильный журнал «КОЛЕСА.РУ»">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Новости - КОЛЕСА.ру – автомобильный журнал">
+<meta property="og:locale" content="ru_RU">
+<meta name="twitter:title" content="Новости - КОЛЕСА.ру – автомобильный журнал">
+<meta name="verify-admitad" content="6d65dd519d">
+<meta name="google-site-verification" content="7X0JyiynyIH4VyjGFKdo_OykLTIhAVBN8gzjkA8LcII">
+<meta name="yandex-verification" content="28f70e5bed4122f1">
+<meta name="pmail-verification" content="2fa1b7acd4057aec4022e52eb2b63e93">
+<meta name="facebook-domain-verification" content="xlez4ww2y4k4ijzw83ohwa9m4bpu99">
+<link rel="preconnect" href="https://nativerent.ru/js/codes/nativerent.v2.js" as="script" crossorigin>
+<link rel="preconnect" href="https://ads.betweendigital.com" crossorigin>
+<link rel="alternate" href="https://www.kolesa.ru/export/rss.xml" title="КОЛЕСА.ру – автоновости, тест-драйвы, каталог авто, отзывы, дилеры, общение" type="application/rss+xml">
+<script src="https://nativerent.ru/js/codes/nativerent.v2.js" async crossorigin></script>
+<script type="text/javascript">
+    (function () {
+        (window.NRentCounter = window.NRentCounter || []).push({
+            id: "5e78ccb60aa9a"
+        });
+    }());
+</script>
+<script type="text/javascript" src="//www.kolesa.ru/adfox.asyn.code.ver3.js" async></script>
+<script type="text/javascript" src="//www.kolesa.ru/adfox.asyn.code.scroll.js" async></script>
+<script src="//cdn.onthe.io/io.js/9iGAnEovDZeo" async></script>
+<script>document.addEventListener("DOMContentLoaded", function() { (function(){setTimeout(function(){$.ajax({url:"/js/showads.js",dataType:"script"}).fail(function(){yaCounter7276219 && yaCounter7276219.reachGoal("viewblock");});},5000);})(); });</script>
+<script async type="text/javascript" src="//s.luxcdn.com/t/196497/360_light.js"></script>
+
+    
+    <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous" async></script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6D9NVP');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '806410536683260'); 
+fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+<style>@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,700&subset=cyrillic");</style>
+
+    <style>
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+      display: none !important;
+    }
+    </style>
+    <script>
+    (function(doc){doc.classList.remove('no-js');doc.classList.add('js');})(document.documentElement);
+    </script>
+
+    
+    
+    <link rel="stylesheet" href="https://www.kolesa.ru/lm-assets/vendor-e88aeb3b36.css">
+    <link rel="stylesheet" href="https://www.kolesa.ru/lm-assets/app-5c3f901cc1.css">
+
+    
+    </head>
+<body  data-ng-app="websiteApp" data-flow-prevent-drop>
+    <div class="website-root-container" data-ng-controller="MainController">
+
+            <!-- Banner  -->
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Главная страница / Брендирование (2)-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Брендирование (2)-->
+<div id="adfox_168422942816996814"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 229408,
+            containerId: 'adfox_168422942816996814',
+            params: {
+                p1: 'cyerk',
+                p2: 'ijhd'
+            },
+    onRender: function() {
+        document.getElementsByTagName('body')[0].classList.add('branded');
+    }
+        })
+    })
+</script>
+<!-- / Banner  -->
+
+
+<!-- Banner  -->
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / (NEW) Шапка - desktop-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: (NEW) Шапка-->
+<div id="adfox_153691201438856091"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 229408,
+            containerId: 'adfox_153691201438856091',
+            params: {
+                p1: 'cbxwm',
+                p2: 'gcnc'
+            }
+        }, ['desktop'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / (NEW) Шапка - mobile-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: (NEW) Шапка-->
+<div id="adfox_153691207266869637"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 229408,
+            containerId: 'adfox_153691207266869637',
+            params: {
+                p1: 'cbxwn',
+                p2: 'gcnc'
+            }
+        }, ['phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+
+<!--AdFox START-->
+<!--rukolesa-->
+<!--Площадка: KOLESA.RU / Все страницы / (NEW) Шапка - tablet-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: (NEW) Шапка-->
+<div id="adfox_153691211828347387"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 229408,
+            containerId: 'adfox_153691211828347387',
+            params: {
+                p1: 'cbxwo',
+                p2: 'gcnc'
+            }
+        }, ['tablet'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+  (function(win, doc, cb){
+    (win[cb] = win[cb] || []).push(function() {
+      try {
+        tnsCounterKolesa_ru = new TNS.TnsCounter({
+        'account':'kolesa_ru',
+        'tmsec': 'kolesa_site'
+        });
+      } catch(e){}
+    });
+
+    var tnsscript = doc.createElement('script');
+    tnsscript.type = 'text/javascript';
+    tnsscript.async = true;
+    tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+      '//www.tns-counter.ru/tcounter.js';
+    var s = doc.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(tnsscript, s);
+  })(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+  <img src="//www.tns-counter.ru/V13a****kolesa_ru/ru/UTF-8/tmsec=kolesa_site/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<script>
+var r = (Math.random()*10000000000).toFixed(0);
+var s = document.createElement('script'); s.src = "//pix.ssp.otm-r.com/sspmatch-js?randsalt="+r;
+s.async = true;
+document.body.appendChild(s);
+</script>
+<!-- / Banner  -->
+
+
+
+<style type="text/css">
+header .header-container .navbar-nav>li>a {
+    padding: 15px 11px;
+}
+@media (min-width: 1300px) {
+    header .header-container .logo-block {
+        margin-right: 15px
+    }
+}
++</style>
+
+<header ng-controller="HeaderController">
+    <div class="header-block">
+        <div class="container header-container">
+            
+
+            <div class="menu-handle">
+                <button type="button" class="menu-handle-button" ng-click="toggleMenu()">
+                    <i class="icon-ham"></i>
+                </button>
+            </div>
+
+            <div class="logo-block">
+                <a href="https://www.kolesa.ru">
+                    <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo.svg">
+                </a>
+            </div>
+
+            <div class="header-menu visible-lg">
+                <ul class="nav navbar-nav">
+                        <li ><a  class="menu-item-catalog"  href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=header">Подобрать авто</a></li>
+                                <li  class="active" ><a  href="https://www.kolesa.ru/news">Новости</a></li>
+                                <li ><a  href="https://www.kolesa.ru/article">Статьи</a></li>
+                                <li ><a  href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+                                <li ><a  href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+                                <li ><a  href="https://www.kolesa.ru/practice">Практика</a></li>
+                                <li class="dropdown">
+                <a data-toggle="dropdown" href="https://www.kolesa.ru">Еще</a>
+                <ul class="dropdown-menu">
+                                        <li><a href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+                                        <li><a href="https://www.kolesa.ru/history">История</a></li>
+                                        <li><a href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+                                        <li><a href="https://www.kolesa.ru/populjarnye-voprosy">Простые вопросы</a></li>
+                                        <li><a href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/tyres">Шины и диски</a></li>
+                                        <li><a href="https://www.kolesa.ru/ekspert-vybiraet-avto">Эксперт выбирает авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/avto-nedeli">Авто Недели</a></li>
+                                        <li><a href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+                                        <li><a href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры &quot;Колёса.ру</a></li>
+                                        <li><a href="https://www.kolesa.ru/intervju">Интервью</a></li>
+                                        <li><a href="https://www.kolesa.ru/gid-po-pokupke-avto">Гид по покупке авто с пробегом</a></li>
+                                        <li><a href="https://www.kolesa.ru/hi-gear">Азбука автохимии</a></li>
+                                        <li><a href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+                                    </ul>
+            </li>
+            </ul>
+
+            </div>
+
+            <div class="header-menu visible-md">
+                <ul class="nav navbar-nav">
+                        <li ><a  class="menu-item-catalog"  href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=header">Подобрать авто</a></li>
+                                <li  class="active" ><a  href="https://www.kolesa.ru/news">Новости</a></li>
+                                <li ><a  href="https://www.kolesa.ru/article">Статьи</a></li>
+                                <li ><a  href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+                                <li ><a  href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+                                <li class="dropdown">
+                <a data-toggle="dropdown" href="https://www.kolesa.ru">Еще</a>
+                <ul class="dropdown-menu">
+                                        <li><a href="https://www.kolesa.ru/practice">Практика</a></li>
+                                        <li><a href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+                                        <li><a href="https://www.kolesa.ru/history">История</a></li>
+                                        <li><a href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+                                        <li><a href="https://www.kolesa.ru/populjarnye-voprosy">Простые вопросы</a></li>
+                                        <li><a href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/tyres">Шины и диски</a></li>
+                                        <li><a href="https://www.kolesa.ru/ekspert-vybiraet-avto">Эксперт выбирает авто</a></li>
+                                        <li><a href="https://www.kolesa.ru/avto-nedeli">Авто Недели</a></li>
+                                        <li><a href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+                                        <li><a href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры &quot;Колёса.ру</a></li>
+                                        <li><a href="https://www.kolesa.ru/intervju">Интервью</a></li>
+                                        <li><a href="https://www.kolesa.ru/gid-po-pokupke-avto">Гид по покупке авто с пробегом</a></li>
+                                        <li><a href="https://www.kolesa.ru/hi-gear">Азбука автохимии</a></li>
+                                        <li><a href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+                                    </ul>
+            </li>
+            </ul>
+
+            </div>
+
+            <ul class="nav navbar-nav navbar-right" ng-cloak>
+                <li class="visible-md visible-lg">
+                    <a href="https://osago.kolesa.insapp.ru/" target="_blank" style="color:  #cb1616;">Оформить ОСАГО</a>
+                </li>
+                <li class="nav-search-item">
+                    <a href="" ng-click="openSearchBox()"><img src="https://www.kolesa.ru/vendor/themes/kolesa/images/search.svg" height="24"></a>
+                </li>
+                <li class="nav-login-item" ng-if="!$rep.auth.user">
+                    <a href="" ng-click="$auth.showLogin()">Вход</a>
+                </li>
+                <li class="nav-user-item visible-md visible-lg" ng-if="$rep.auth.user">
+                    <a href="https://www.kolesa.ru/profile"><img ng-src="{{ $rep.auth.user.avatar_url }}" alt="" class="avatar"></a>
+                </li>
+                <li class="nav-user-item hidden-md hidden-lg" ng-if="$rep.auth.user">
+                    <a href="" ng-click="showProfileDropdown()"><img ng-src="{{ $rep.auth.user.avatar_url }}" alt="" class="avatar"></a>
+                    <ul class="profile-dropdown" ng-if="profileDropdownShown">
+                        <li><a href="https://www.kolesa.ru/profile">Мой профайл</a></li>
+                        <li><a href="" ng-click="$auth.logout()">Выйти</a></li>
+                    </ul>
+                </li>
+                <li class="nav-logout-item hidden-xs" ng-if="$rep.auth.user">
+                    <a href="" ng-click="$auth.logout()">Выход</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="mobile-menu-block" ng-class="{ open: menuShown }">
+        <div class="shadow-close-handle" ng-click="toggleMenu()"></div>
+        <div class="container header-container">
+            <div class="header-panel">
+                <div class="logo-block">
+                    <a href="https://www.kolesa.ru">
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo.svg">
+                    </a>
+                </div>
+                <div class="menu-handle">
+                    <button type="button" class="menu-handle-button" ng-click="toggleMenu()">
+                        <i class="icon-close"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="header-menu">
+                <ul class="nav navbar-nav">
+                        <li ><a  class="menu-item-catalog"  href="https://auto.kolesa.ru/?utm_source=journal&amp;utm_medium=header">Подобрать авто</a></li>
+                                <li ><a  href="https://osago.kolesa.insapp.ru/">Оформить ОСАГО</a></li>
+                                <li  class="active" ><a  href="https://www.kolesa.ru/news">Новости</a></li>
+                                <li ><a  href="https://www.kolesa.ru/article">Статьи</a></li>
+                                <li ><a  href="https://www.kolesa.ru/test-drive">Тест-драйвы</a></li>
+                                <li ><a  href="https://www.kolesa.ru/avto-s-probegom">Авто с пробегом</a></li>
+                                <li ><a  href="https://www.kolesa.ru/practice">Практика</a></li>
+                                <li ><a  href="https://www.kolesa.ru/tuning-auto">Тюнинг</a></li>
+                                <li ><a  href="https://www.kolesa.ru/history">История</a></li>
+                                <li ><a  href="https://www.kolesa.ru/gadgets">Гаджеты</a></li>
+                                <li ><a  href="https://www.kolesa.ru/populjarnye-voprosy">Простые вопросы</a></li>
+                                <li ><a  href="https://www.kolesa.ru/redkie-avtomobili">Редкие авто</a></li>
+                                <li ><a  href="https://www.kolesa.ru/tyres">Шины и диски</a></li>
+                                <li ><a  href="https://www.kolesa.ru/ekspert-vybiraet-avto">Эксперт выбирает авто</a></li>
+                                <li ><a  href="https://www.kolesa.ru/avto-nedeli">Авто Недели</a></li>
+                                <li ><a  href="https://www.kolesa.ru/gruzoviki-i-avtobusy">Грузовики и автобусы</a></li>
+                                <li ><a  href="https://www.kolesa.ru/rendery-kolyosa-ru">Рендеры &quot;Колёса.ру</a></li>
+                                <li ><a  href="https://www.kolesa.ru/intervju">Интервью</a></li>
+                                <li ><a  href="https://www.kolesa.ru/gid-po-pokupke-avto">Гид по покупке авто с пробегом</a></li>
+                                <li ><a  href="https://www.kolesa.ru/hi-gear">Азбука автохимии</a></li>
+                                <li ><a  href="https://www.kolesa.ru/remont-i-obsluzhivanie">Ремонт и обслуживание</a></li>
+            </ul>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="search-box" ng-class="{open:searchBoxShown}" ng-controller="SearchController" ng-init="restrict({ type: '2', tag: '' })">
+        <div class="container">
+            <form class="search-form" ng-submit="search()">
+                <div class="search-field">
+                                        <span class="search-restrict" ng-if="use_restrict">
+                        <span class="search-restrict-text">
+                            Новости
+                            
+                        </span>
+                        <span class="search-restrict-cancel" ng-click="dropRestrict()">&times;</span>
+                    </span>
+                                        <input type="text" ng-model="query" placeholder="Поиск" focus-me="searchBoxShown">
+                </div>
+                <button type="button" class="close-search-form" ng-click="closeSearchBox()">&times;</button>
+            </form>
+            <div class="search-results">
+                <div ng-if="query">
+                    <div class="row post-list">
+                        <div class="col-md-4 col-sm-6" ng-repeat="post in posts">
+                            <a class="post-list-item" ng-href="{{ post.url }}"  target="_blank" >
+    <span class="post-image" style="background-image: url({{ post.preview_url }})"></span>
+    <span class="post-content">
+        <span class="post-category" ng-bind="post.category"></span>
+        <span class="post-name" ng-bind="post.name"></span>
+        <span class="post-lead" ng-bind="post.lead_clean"></span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            <span ng-bind="post.views_count"></span>
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            <span ng-bind="post.comments_count"></span>
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            <span ng-bind="post.likes_count"></span>
+        </span>
+        <span class="post-meta-item pull-right" ng-bind="post.date | asDate | date: 'dd.MM.yyyy'">
+        </span>
+    </span>
+</a>
+                        </div>
+                    </div>
+                    <div ng-if="meta.hasMore" class="search-load-more">
+                        <button class="btn btn-default" ng-click="loadMore()">Показать еще</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>    
+            <div class="content-wrap ">
+    <div class="container main-container" style="position: relative;">
+
+      
+<ul class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement"><a itemprop="url" href="https://www.kolesa.ru">Главная</a></li>
+    <li itemprop="itemListElement">Новости</li>
+</ul>
+
+<h1>Новости</h1>
+
+<div class="row post-list">
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/novyi-universal-kia-riok3-kakim-on-mozet-byt">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/99e6e8a1-8020-40e7-9bde-3d03e66adf95/kia-rio-wagon-front1-mini.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Рендеры &quot;Колёса.ру&quot;
+        </span>
+        <span class="post-name">Новый универсал Kia Rio/K3: каким он может быть
+        </span>
+        <span class="post-lead">В первом поколении корейской модели кроме стандартного седана была также грузопассажирская модификация. Какой она могла бы быть сегодня?</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            829
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            16.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/festival-prodaz-jetour">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/0db97fdc-748d-40f2-a69c-f19433a6e882/jetour-sales-festival-dashing-kopiia.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Авторынок
+        </span>
+        <span class="post-name">Фестиваль продаж Jetour
+        </span>
+        <span class="post-lead">В декабре 2023 года стартовал «Фестиваль продаж Jetour» – выгодные условия кредитования на автомобили Jetour X90 Plus, Jetour X70 Plus, Jetour Dashing от 4 банков: Альфа-Банк, СОВКОМБАНК, РО...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            191
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/v-izevske-startoval-vypusk-opytnoi-partii-lada-e-largus">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/6a1e75a5-b4fe-4f53-9cc4-6ad8671c5cbb/pre-largus.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">В Ижевске стартовал выпуск опытной партии Lada e-Largus
+        </span>
+        <span class="post-lead">Планируется, что серийное производство электрокаров начнется следующей весной, тогда же на конвейер вернутся Ларгусы с ДВС.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            349
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/benzinovyi-porsche-macan-uxodit-iz-evropy-i-ekologiia-tut-ni-pri-cem">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/b22b0d50-399b-412e-a107-e9e9072f817e/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Авторынок
+        </span>
+        <span class="post-name">Бензиновый Porsche Macan уходит из Европы, и экология тут ни при чём
+        </span>
+        <span class="post-lead">Популярный среднеразмерный бензиновый кроссовер Porsche Macan вынужден покинуть рынок ЕС из-за ужесточившихся правил кибербезопасности, которым он не соответствует. На смену бензиновому Maca...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            879
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            1
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/rebrending-do-starta-vmesto-chery-nev-v-rf-budet-chery-tiggo-pervaia-model-udivit">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/72eff875-60ab-45e4-bad3-b103e27495e6/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Ребрендинг до старта: вместо Chery NEV в РФ будет Chery Tiggo, первая модель удивит!
+        </span>
+        <span class="post-lead">Российское представительство китайской компании Chery сегодня объявило о переименовании анонсированного в прошлом месяце нового суббренда электрифицированных автомобилей: вместо безликой для...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1005
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/marka-jaecoo-raskryla-svezie-podrobnosti-o-j8-dlia-rossii-i-anonsirovala-eshhe-dve-novinki">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/28f8d8eb-d79a-4887-bed0-66e9164c23dd/jaecoo-j8-4.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Марка Jaecoo раскрыла свежие подробности о J8 для России и анонсировала ещё две новинки
+        </span>
+        <span class="post-lead">Наряду с «традиционными» SUV компания будет продавать в РФ еще и гибриды. Модельную гамму расширят в следующем году.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            596
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-sm-4" style="padding-bottom: 20px;">
+            <!-- Banner  -->
+<script class='__lxGc__' type='text/javascript'>
+((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_196497']=__lxGc__['s']['_196497']||{'b':{}})['b']['_694148']={'i':__lxGc__.b++};
+</script>
+<!-- / Banner  -->
+
+
+        </div>
+        <div class="col-sm-4" style="padding-bottom: 20px;">
+            <!-- Banner  -->
+<script class='__lxGc__' type='text/javascript'>
+((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_196497']=__lxGc__['s']['_196497']||{'b':{}})['b']['_694155']={'i':__lxGc__.b++};
+</script>
+<!-- / Banner  -->
+
+
+        </div>
+        <div class="col-sm-4" style="padding-bottom: 20px;">
+            <!-- Banner  -->
+<script class='__lxGc__' type='text/javascript'>
+((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_196497']=__lxGc__['s']['_196497']||{'b':{}})['b']['_694153']={'i':__lxGc__.b++};
+</script>
+<!-- / Banner  -->
+
+
+        </div>
+                <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/zaiavka-na-liderstvo-elektriceskii-miniven-xpeng-x9-vyidet-na-rynok-priamo-v-novyi-god">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/9b3c8a25-acd3-447e-8ee8-591e8191c60f/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Заявка на лидерство: электрический минивэн Xpeng X9 выйдет на рынок прямо в Новый год
+        </span>
+        <span class="post-lead">Первый минивэн китайского электромобильного стартапа Xpeng поступит в продажу на домашнем рынке 1 января. Xpeng X9 имеет эффектный угловатый дизайн, посадочную формулу 2+2+3 и полноуправляем...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            1674
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/krossover-lynk-co-09-ot-geely-i-volvo-stal-bystree-i-polucil-neobycnuiu-fisku">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/f6aee99e-dc42-4d2c-bdc4-bfdc097c612d/pre-lynk.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Кроссовер Lynk &amp; Co 09 от Geely и Volvo стал быстрее и получил необычную фишку
+        </span>
+        <span class="post-lead">Кроме того, флагманскому SUV слегка подправили дизайн экстерьера, а в салоне установили новый планшет мультимедиа-системы.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            3079
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            15.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/volkswagen-gotovit-subkompaktnyi-krossover-v-ego-osnovu-liazet-id2-all-suv">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/41db2fc1-3016-480c-a579-4e46bd0a87c0/db2023au01525-large-kopiia.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Volkswagen готовит субкомпактный кроссовер, в его основу ляжет ID.2 all SUV
+        </span>
+        <span class="post-lead">Предполагается, что серийная версия новинки немецкой марки появится в продаже на европейском рынке в 2026 году.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            292
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/novyi-biudzetnyi-krossover-alfa-romeo-eto-milano-brat-jeep-i-peugeot">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/c9601806-554e-4b88-97c4-55d45bad1871/ti-1jpg.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Новый «бюджетный» кроссовер Alfa Romeo: это Milano, брат Jeep и Peugeot
+        </span>
+        <span class="post-lead">Премьеру компактный паркетник справит в следующем году. В Европе основную ставку сделают на электроверсию, но варианты с ДВС тоже будут.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            3372
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            1
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/cadillac-vistiq-eshhe-odin-bolsoi-i-dorogoi-trexriadnyi-elektriceskii-krossover">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/0a11ee15-212f-4917-aaaf-c0c8b82a18b4/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Cadillac Vistiq: ещё один большой и дорогой трёхрядный электрический кроссовер
+        </span>
+        <span class="post-lead">Vistiq станет электрической альтернативой бензиновому семейному кроссоверу  Cadillac XT6. Полноценная премьера Cadillac Vistiq ожидается в следующем году, при этом пока неизвестно, когда име...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            868
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/na-byvsem-zavode-volvo-v-kaluge-vozobnovili-proizvodstvo-kommerceskix-avtomobilei">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/078de881-10b4-4a89-85fa-81897b42860c/photo-2023-12-14-10-13-53.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Производство
+        </span>
+        <span class="post-name">На бывшем заводе Volvo в Калуге возобновили производство коммерческих автомобилей
+        </span>
+        <span class="post-lead">Теперь с конвейера этого предприятия сходят грузовики Ural Next. До конца текущего года планируется выпустить 50 машин.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            2431
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/novicki-avstraliiskogo-rynka-mg-5-i-mahindra-scorpio-v-kras-testax-ancap-polnyi-proval">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/92fb55af-234c-4401-922e-f836e292c1c4/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Краш-тест
+        </span>
+        <span class="post-name">Новички австралийского рынка MG 5 и Mahindra Scorpio в краш-тестах ANCAP: полный провал
+        </span>
+        <span class="post-lead">Китайский седан MG 5 и индийский внедорожник Mahindra Scorpio оказались не готовы к современной австралийской программе испытаний новых автомобилей на безопасность, которая идентична  програ...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            461
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            2
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            2
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/bolsoi-krossover-aito-m9-ot-huawei-polucil-interer-v-stile-mercedes">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/faea9672-5901-4767-9d9c-ca19dfd291d4/pre-aito-m9-2.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Новинки
+        </span>
+        <span class="post-name">Большой кроссовер AITO M9 от Huawei получил интерьер в стиле Mercedes
+        </span>
+        <span class="post-lead">На домашнем рынке новый SUV будет доступен в виде гибрида или электрокара. Полноценную презентацию проведут в конце декабря.</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            2370
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            0
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            3
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+                    <div class="col-md-4 col-sm-6">
+            <a class="post-list-item" href="https://www.kolesa.ru/news/tesla-otzovet-bolee-2-mln-masin-ctoby-zastavit-voditelei-sledit-za-avtopilotom">
+        <span class="post-image" style="background-image: url(https://kolesa-uploads.ru/p/40680108-c1cb-4426-b818-a08af2693c2d/0-0.jpg)"></span>
+    <span class="post-content">
+        <span class="post-category">
+            Новости / Отзывы
+        </span>
+        <span class="post-name">Tesla отзовёт более 2 млн машин, чтобы заставить водителей следить за автопилотом
+        </span>
+        <span class="post-lead">Отзывная кампания стала результатом  расследования  Национального управления безопасностью дорожного движения США (NHTSA), начатого в 2021 году из-за серии ДТП, в которые были вовлечены нахо...</span>
+    </span>
+    <span class="post-meta">
+        <span class="post-meta-item">
+            <span class="fa fa-eye"></span>
+            169
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-comment-o"></span>
+            1
+        </span>
+        <span class="post-meta-item">
+            <span class="fa fa-heart-o"></span>
+            0
+        </span>
+        <span class="post-meta-item pull-right">
+            14.12.2023
+        </span>
+    </span>
+</a>
+        </div>
+    </div>
+
+
+<center><nav>
+        <ul class="pagination">
+            
+                            <li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Назад">
+                    <span class="page-link" aria-hidden="true">&lsaquo;</span>
+                </li>
+            
+            
+                            
+                
+                
+                                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=2">2</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=3">3</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=4">4</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=5">5</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=6">6</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=7">7</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=8">8</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=9">9</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=10">10</a></li>
+                                                                                        
+                                    <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+                
+                
+                                            
+                
+                
+                                                                                        <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=6750">6750</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://www.kolesa.ru/news?page=6751">6751</a></li>
+                                                                        
+            
+                            <li class="page-item">
+                    <a class="page-link" href="https://www.kolesa.ru/news?page=2" rel="next" aria-label="Вперёд &raquo;">&rsaquo;</a>
+                </li>
+                    </ul>
+    </nav>
+</center>
+
+<!-- Banner  -->
+<!-- no code -->
+<!-- / Banner  -->
+
+
+
+<div ng-controller="SubscribeController">
+    <form action="https://kolesa.us12.list-manage.com/subscribe/post-json?u=d05584bb6cf579d46405bc1c8&amp;id=6128325691" name="SubscribeForm" class="subscribe-form" method="get" target="_blank" novalidate="" ng-submit="submit(SubscribeForm, 'https://kolesa.us12.list-manage.com/subscribe/post-json?u=d05584bb6cf579d46405bc1c8&id=6128325691&b_d05584bb6cf579d46405bc1c8_6128325691='); $event.preventDefault()">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-5">
+                    <div class="sf-title">
+                        Новое интересное пришлем на почту!
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="form-group" ng-class="{ 'has-error': SubscribeForm.$dirty && SubscribeForm.$invalid }">
+                        <input type="email" name="EMAIL" ng-model="data.email" class="form-control" placeholder="Ваш e-mail" required="">
+                    </div>
+                    <input type="hidden" name="b_d05584bb6cf579d46405bc1c8_6128325691" tabindex="-1" value="">
+                </div>
+                <div class="col-sm-3">
+                    <input type="submit" value="хочу!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-green btn-block">
+                </div>
+            </div>
+            <div style="margin-top: .5em; opacity: .8;">Даю <a href="https://www.kolesa.ru/agreement" target="_blank">согласие на обработку своих персональных данных</a></div>
+        </div>
+
+        <div class="subcribe-result text-danger" ng-if="data.error" ng-bind-html="data.error"></div>
+        <div class="subcribe-result text-success" ng-if="data.success" ng-bind-html="data.success"></div>
+    </form>
+</div>
+
+
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?120"></script>
+<div id="vk_groups_657ec02eb5399"></div>
+<style>#vk_groups_657ec02eb5399 iframe { width: 100%; }</style>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups_657ec02eb5399", {mode: 0, width: "auto", height: "270", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 5711729);
+</script>
+
+
+    </div>
+</div>    
+            <footer class="footer">
+    <div class="container">
+
+        <div>
+            <a href="https://www.kolesa.ru" class="logo">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo-black.svg" width="148" alt="" class="hidden-xs hidden-sm">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo-grey.svg" width="148" alt="" class="visible-xs visible-sm">
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="hidden-xs hidden-sm">
+                    <p class="footer-copyright">
+                        Все права защищены © 2003 – 2023.
+                        <br>
+                        Сетевое издание «Kolesa.ru», зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций, номер свидетельства ЭЛ №ФС 77-75770.
+                        <br>
+                        Любое использование материалов, размещенных на сайте www.kolesa.ru, допускается только с письменного разрешения правообладателя.
+                        <br>
+                        Учредитель ООО «Президент-Медиа». Главный редактор Кокорин А. А., телефон редакции +7 981 952 1000. 0+
+                    </p>
+                    <p>
+                        <a href="https://www.kolesa.ru/policy">Политика конфиденциальности</a>
+                    </p>
+                    <p class="liveinternet-counter">
+                        <a href="//www.liveinternet.ru/click" target="_blank">
+                            <img src="//counter.yadro.ru/logo?44.1" border="0" alt="" title="LiveInternet">
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="hidden-xs hidden-sm">
+                    <nav>
+                        <ul class="footnav">
+        <li><a href="https://www.kolesa.ru/dream-team">Команда</a></li>
+        <li><a href="https://www.kolesa.ru/adv">Реклама на сайте</a></li>
+        <li><a href="https://www.kolesa.ru/contacts">Контакты</a></li>
+        <li><a href="https://www.kolesa.ru/vacancy">Вакансии</a></li>
+    </ul>
+
+                    </nav>
+                </div>
+            </div>
+            <div class="col-md-3">
+
+                <div class="footer-social-links">
+                    
+                    <a href="https://twitter.com/kolesa_ru" target="_blank" class="social-link">
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/images/social/twitter.svg" class="social-link-logo">
+                    </a>
+                    
+                    <a href="https://vk.com/kolesa_ru" target="_blank" class="social-link">
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/images/social/vkont.svg" class="social-link-logo">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCrKqKq3Y6kqx2B-tzTPs_ag" target="_blank" class="social-link">
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/images/social/youtube.svg" class="social-link-logo">
+                    </a>
+                </div>
+
+                <div class="footer-social-links">
+                    <a class="social-link" href="https://zen.yandex.ru/kolesa.ru" target="_blank">
+                        Мы на Яндекс Дзен
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/images/social/zen.svg" class="social-link-logo social-link-logo-small">
+                    </a>
+                </div>
+
+                <div class="footer-social-links">
+                    <a class="social-link" href="https://ttttt.me/realkolesaru" target="_blank">
+                        Наш Телеграм-канал
+                        <img src="https://www.kolesa.ru/vendor/themes/kolesa/images/social/telegr.svg" class="social-link-logo social-link-logo-small">
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="visible-xs visible-sm">
+            <nav>
+                <ul class="footnav">
+        <li><a href="https://www.kolesa.ru/dream-team">Команда</a></li>
+        <li><a href="https://www.kolesa.ru/adv">Реклама на сайте</a></li>
+        <li><a href="https://www.kolesa.ru/contacts">Контакты</a></li>
+        <li><a href="https://www.kolesa.ru/vacancy">Вакансии</a></li>
+    </ul>
+
+            </nav>
+        </div>
+
+
+        <div class="visible-xs visible-sm">
+            <p>
+                Все права защищены © 2003 – 2023.
+                <br>
+                Сетевое издание «Kolesa.ru», зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций, номер свидетельства ЭЛ №ФС 77-75770.
+                <br>
+                Любое использование материалов, размещенных на сайте www.kolesa.ru, допускается только с письменного разрешения правообладателя.
+                <br>
+                Учредитель ООО «Президент-Медиа». Главный редактор Кокорин А. А., телефон редакции +7 981 952 1000. 0+
+            </p>
+            <p>
+                <a href="https://www.kolesa.ru/policy">Политика конфиденциальности</a>
+            </p>
+        </div>
+
+        <div>
+            <!--LiveInternet counter-->
+            <script type="text/javascript">
+                document.write('<img src="//counter.yadro.ru/hit?r' + escape(document.referrer) + ((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ';u' + escape(document.URL) +';i' + escape('Жж'+document.title.substring(0,80)) + ';' + Math.random() + '" width=1 height=1 alt="">');
+            </script>
+            <!--/LiveInternet-->
+
+            
+        </div>
+
+
+
+    </div>
+</footer>
+
+<!-- Banner  -->
+<a href="#" onclick="if(window.__lxG__consent__!==undefined&&window.__lxG__consent__.getState()!==null){window.__lxG__consent__.showConsent()} else {alert('This function only for users from European Economic Area (EEA)')}; return false">Change privacy settings</a>
+<!-- / Banner  -->
+
+<!-- Banner  -->
+<script>
+(function(d) {
+    d.addEventListener('DOMContentLoaded', function() {
+		overlayPopup(7);
+    });
+})(document);
+</script>
+<!-- / Banner  -->
+
+
+
+<!-- noindex -->
+<div class="post-popup" style="display: none;" id="postPopup">
+            <div class="post-popup__wrapper">
+                <div class="post-popup__container post-popup__container_three">
+                    <a href="https://www.kolesa.ru/article/pokupaem-chery-tiggo-7-pro-max-tak-li-on-xoros-i-na-cto-pridetsia-potratitsia" class="post-popup__tile post-popup__tile_top-left" style="background-image: url(https://kolesa-uploads.ru/p/8a2a1525-c3a7-4563-9faf-64aa53fad239/zaglavnaia.jpg)">Покупаем Chery Tiggo 7 PRO MAX: так ли он хорош и на что придётся потратиться</a>
+                    <a href="https://www.kolesa.ru/article/pokupaem-jaecoo-j7-gde-kupit-kak-obsluzivat-skolko-tratit" class="post-popup__tile post-popup__tile_top-right" style="background-image: url(https://kolesa-uploads.ru/p/f555efce-82cd-4947-b595-2b0e7e73ca98/zaglavnaia.jpg)">Покупаем Jaecoo J7: где купить, как обслуживать, сколько тратить</a>
+                    <div class="post-popup__tile post-popup__tile_bottom-left post-popup__tile_pane">
+                        <div class="popup-title__content">
+                            <div class="popup-title-line">Не пропусти</div>
+                            <div class="popup-title-subline">самое интересное</div>
+                            <div class="popup-title-read">Читать</div>
+                        </div>
+                    </div>
+                    <a href="https://www.kolesa.ru/article/geely-emgrand-za-13-tysiac-v-mesiac-kak-kupit-bolsoi-sedan-na-vygodnyx-usloviiax" class="post-popup__tile post-popup__tile_bottom-right" style="background-image: url(https://kolesa-uploads.ru/p/0cbfea3b-d087-4ef2-90af-66d592c03636/1.jpg)">Geely Emgrand за 13 тысяч в месяц: как купить большой седан на выгодных условиях</a>
+                </div>
+            </div>
+        </div>
+        <svg width="0" height="0">
+        <clipPath id="postPopupPolygon"><polygon points="0 440,80 520,650 520,650 80,650 80,570 0,0 0"></polygon></clipPath>
+        <clipPath id="postPopupPolygonSingle"><polygon points="0 290,80 370,650 370,650 80,650 80,570 0,0 0"></polygon></clipPath>
+    </svg>
+<!-- /noindex -->
+
+<!-- noindex -->
+<div class="modal kolesa-auth-modal fade" id="modal_form_auth_modal" tabindex="-1" role="dialog" ng-controller="AuthFormController" ng-init="closeModal('modal_form_auth_modal')">
+  <div class="modal-dialog" role="document" ng-class="{ rotatelogin: showForm=='login', rotatereg: showForm=='register', rotateforget: showForm=='forget'}">
+    <form class="modal-form-login form-auth-modal" name="form" ng-submit="login(form, 'https://www.kolesa.ru/website-vendor/forms/auth-modal', false)" ng-class="{active: showForm=='login'}">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo.svg" style="max-height: 32px">
+            
+          </div>
+          <div class="modal-body" ng-show="!isSuccess">
+            <div class="form-heading">
+              <strong>Войти</strong>
+              или
+              <a href="" ng-click="switchForm('register')">Регистрация</a>
+            </div>
+                        <div class="alert alert-danger" ng-show="errorCode == 422">Неудачная попытка входа</div>
+            <div class="alert alert-danger" ng-show="errorCode != 422 && errorMessage">{{ errorMessage }}</div>
+            
+            
+                                                                    <div class="form-group from-group-email"   data-ng-class="{ 'has-error': errors.email }">
+            <label>Email</label>
+            <div>
+        
+                <input type="text"
+       class="form-control"
+       name="email"
+       data-ng-model="element.email"
+              
+       
+                             placeholder="Введите e-mail"                             autocomplete="off">
+
+                <span class="help-block" data-ng-if="errors.email" data-ng-bind="errors.email[0]"></span>
+
+        
+    </div>
+</div>
+
+                                                        <div class="form-group from-group-password"   data-ng-class="{ 'has-error': errors.password }">
+            <label>Password</label>
+            <div>
+        
+                <input type="password"
+       class="form-control"
+       name="password"
+       data-ng-model="element.password"
+              
+       
+                             placeholder="Пароль"                             autocomplete="off">
+
+                <span class="help-block" data-ng-if="errors.password" data-ng-bind="errors.password[0]"></span>
+
+        
+    </div>
+</div>
+
+                                                                                  <div class="form-group from-group-remember"   data-ng-class="{ 'has-error': errors.remember }">
+            <div>
+        
+                <div class="checkbox">
+  <label>
+     <input type="checkbox"
+            
+            
+            data-ng-model="element.remember"
+                        name="remember">
+      Запомнить меня
+  </label>
+</div>
+
+                <span class="help-block" data-ng-if="errors.remember" data-ng-bind="errors.remember[0]"></span>
+
+        
+    </div>
+</div>
+
+                                    </div>
+          <div class="modal-body" ng-show="isSuccess">Вы успешно вошли на сайт</div>
+          <div class="modal-footer hidden-xs" ng-show="!isSuccess">
+            <a href="" class="pull-left" ng-click="switchForm('forget')">Забыли пароль?</a>
+            <button class="btn btn-primary pull-right" type="submit" ng-disabled="isLoading">Вход</button>
+          </div>
+          <div class="modal-footer visible-xs" ng-show="!isSuccess">
+            <button class="btn btn-primary" type="submit" ng-disabled="isLoading">Вход</button>
+            <p style="margin-top: 30px;"><a href="" ng-click="switchForm('forget')">Забыли пароль?</a></p>
+          </div>
+          <div class="modal-footer modal-footer-sociallogin">
+            или войдите через
+            <div class="sociallogin-btn-group">
+                            <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/vkontakte')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/vk-color.svg" alt="" style="width: 30px; height: 30px;">
+              </button>
+                            
+                            <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/google')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/google-color.svg" alt="" style="width: 27px; height: 27px;">
+              </button>
+                                          <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/odnoklassniki')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/ok-color.svg" alt="" style="width: 30px; height: 30px;">
+              </button>
+                                          <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/mailru')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/mailru-color.svg" alt="" style="width: 25px; height: 25px;">
+              </button>
+                                          <button class="btn btn-default" type="button" ng-click="socialAuth('https://www.kolesa.ru/vendor/socialite/yandex')">
+                <img src="https://www.kolesa.ru/vendor/themes/kolesa/icons/yandex-color.svg" alt="" style="width: 22px; height: 22px;">
+              </button>
+                          </div>
+          </div>
+        </div>
+    </form>
+
+
+    <form class="modal-form-register form-auth-modal" name="form" ng-submit="register(form, 'https://www.kolesa.ru/website-vendor/forms/auth-modal', false)" ng-class="{active: showForm=='register'}">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo.svg" style="max-height: 32px">
+            
+          </div>
+          <div class="modal-body" ng-show="!isSuccess">
+            <div class="form-heading">
+              <a href="" ng-click="switchForm('login')">Войти</a>
+              или
+              <strong>Регистрация</strong>
+            </div>
+                        <div class="alert alert-danger" ng-show="errorCode == 422">Обратите внимание на ошибки</div>
+            <div class="alert alert-danger" ng-show="errorCode != 422 && errorMessage">{{ errorMessage }}</div>
+            
+            
+                                        <div class="form-group from-group-name"   data-ng-class="{ 'has-error': errors.name }">
+            <label>Name</label>
+            <div>
+        
+              <input type="text"
+       class="form-control"
+       name="name"
+       data-ng-model="element.name"
+              
+       
+                             placeholder="Введите имя"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.name" data-ng-bind="errors.name[0]"></span>
+
+        
+    </div>
+</div>
+
+                                        <div class="form-group from-group-email"   data-ng-class="{ 'has-error': errors.email }">
+            <label>Email</label>
+            <div>
+        
+              <input type="text"
+       class="form-control"
+       name="email"
+       data-ng-model="element.email"
+              
+       
+                             placeholder="Введите e-mail"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.email" data-ng-bind="errors.email[0]"></span>
+
+        
+    </div>
+</div>
+
+                                        <div class="form-group from-group-password"   data-ng-class="{ 'has-error': errors.password }">
+            <label>Password</label>
+            <div>
+        
+              <input type="password"
+       class="form-control"
+       name="password"
+       data-ng-model="element.password"
+              
+       
+                             placeholder="Пароль"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.password" data-ng-bind="errors.password[0]"></span>
+
+        
+    </div>
+</div>
+
+                                        <div class="form-group from-group-password_confirmation"   data-ng-class="{ 'has-error': errors.password_confirmation }">
+            <label>Password Confirmation</label>
+            <div>
+        
+              <input type="password"
+       class="form-control"
+       name="password_confirmation"
+       data-ng-model="element.password_confirmation"
+              
+       
+                             placeholder="Подтвердите пароль"                             autocomplete="off">
+
+              <span class="help-block" data-ng-if="errors.password_confirmation" data-ng-bind="errors.password_confirmation[0]"></span>
+
+        
+    </div>
+</div>
+
+                          
+            <div class="form-group">
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" checked ng-model="element.subscribe">
+                  Хочу получать самые интересные статьи на почту</a>
+                </label>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" checked disabled>
+                  Нажимая кнопку "Регистрация", я подтверждаю свою дееспособность, даю <a href="https://www.kolesa.ru/agreement" target="_blank">согласие на обработку своих персональных данных</a> в соответствии с условиями <a href="https://www.kolesa.ru/policy" target="_blank">Политики конфиденциальности персональных данных Автомобильного журнала «КОЛЕСА»</a>
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body" ng-show="isSuccess">Вы успешно вошли на сайт</div>
+          <div class="modal-footer text-center" ng-show="!isSuccess">
+            <button class="btn btn-primary" type="submit" ng-disabled="isLoading">Регистрация</button>
+          </div>
+        </div>
+    </form>
+
+    <form class="modal-form-forget form-auth-modal" name="form" ng-submit="retrieve(form, 'https://www.kolesa.ru/website-vendor/forms/auth-modal', false)" ng-class="{active: showForm=='forget'}">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <img src="https://www.kolesa.ru/vendor/themes/kolesa/logo.svg" style="max-height: 32px">
+            
+          </div>
+          <div class="modal-body" ng-show="!isSuccess">
+                        <div class="alert alert-danger" ng-show="errorCode == 422">Обратите внимание на ошибки</div>
+            <div class="alert alert-danger" ng-show="errorCode != 422 && errorMessage">{{ errorMessage }}</div>
+            
+            
+                                                                    <div class="form-group from-group-email"   data-ng-class="{ 'has-error': errors.email }">
+            <label>Email</label>
+            <div>
+        
+                <input type="text"
+       class="form-control"
+       name="email"
+       data-ng-model="element.email"
+              
+       
+                             placeholder="Введите e-mail"                             autocomplete="off">
+
+                <span class="help-block" data-ng-if="errors.email" data-ng-bind="errors.email[0]"></span>
+
+        
+    </div>
+</div>
+
+                                                                                                                  </div>
+          <div class="modal-body" ng-show="isSuccess">
+            <div ng-if="emailSent">Ссылка для восстановления пароля отправлена вам на E-mail.</div>
+            <div ng-if="emailFailed">Не удалось отправить вам E-mail. Пожалуйста, повторите попытку позднее.</div>
+          </div>
+          <div class="modal-footer hidden-xs" ng-show="!isSuccess">
+            <a href="" class="pull-left" ng-click="switchForm('login')">← Назад</a>
+            <button class="btn btn-primary pull-right" type="submit" ng-disabled="isLoading">Восстановить пароль</button>
+          </div>
+          <div class="modal-footer visible-xs" ng-show="!isSuccess">
+            <button class="btn btn-primary" type="submit" ng-disabled="isLoading">Восстановить пароль</button>
+            <p style="margin-top: 30px"><a href="" ng-click="switchForm('login')">← Назад</a></p>
+          </div>
+          <div class="modal-footer" ng-show="isSuccess">
+            <button class="btn btn-primary" type="button" ng-click="$modal.hide(modalId)">Закрыть</button>
+          </div>
+        </div>
+    </form>
+  </div>
+
+</div>
+
+<!-- /noindex -->
+
+    
+    </div>
+    <script>
+window["websiteRepository"] = {"auth":{"user":null,"stop_reloader":true},"comments":[],"search":[],"test":[]};
+window["websiteRepositoryConfig"] = {"auth":{"interval":0,"actions":["logout","inc","dec"]},"comments":{"interval":0,"actions":["list","voteup","votedown"]},"search":{"interval":0,"actions":["find"]},"test":{"interval":0,"actions":["get"]}};
+</script>
+
+    
+    
+    <script src="https://www.kolesa.ru/lm-assets/vendor-db09324269.js"></script>
+    <script src="https://www.kolesa.ru/lm-assets/app-4f48eaffbd.js"></script>
+
+    
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6D9NVP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=806410536683260&ev=PageView&noscript=1"/></noscript>
+</body>
+</html>
